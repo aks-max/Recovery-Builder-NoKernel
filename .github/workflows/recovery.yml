@@ -17,7 +17,7 @@ env:
   MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb
   MANIFEST_BRANCH: android-8.1
   DEVICE: TB7104F
-  DT_LINK: https://github.com/ElytrA8/recovery_rosy
+  DT_LINK: https://github.com/aks-max/android_device_lenovo_TB7104F
   DT_PATH: device/lenovo/TB7104F
   TARGET: recoveryimage
   TZ: Asia/Kolkata
