@@ -14,8 +14,8 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb
-  MANIFEST_BRANCH: android-8.1
+  MANIFEST: https://github.com/SHRP/platform_manifest_twrp_omni.git
+  MANIFEST_BRANCH: twrp-8.1
   DEVICE: TB7104F
   DT_LINK: https://github.com/aks-max/android_device_lenovo_TB7104F
   DT_PATH: device/lenovo/TB7104F
