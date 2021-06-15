@@ -14,11 +14,11 @@ on:
     types: [started]
 
 env:
-  MANIFEST: https://gitlab.com/OrangeFox/Manifest.git
-  MANIFEST_BRANCH: fox_9.0
-  DEVICE: rosy
+  MANIFEST: https://github.com/PitchBlackRecoveryProject/manifest_pb
+  MANIFEST_BRANCH: android-8.1
+  DEVICE: TB7104F
   DT_LINK: https://github.com/ElytrA8/recovery_rosy
-  DT_PATH: device/xiaomi/rosy
+  DT_PATH: device/lenovo/TB7104F
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
