@@ -15,10 +15,10 @@ on:
 
 env:
   MANIFEST: https://github.com/SHRP/platform_manifest_twrp_omni.git
- # MANIFEST_BRANCH: twrp-10.0
-  DEVICE: TB7104F
-  DT_LINK: https://github.com/aks-max/android_device_lenovo_TB7104F
-  DT_PATH: device/lenovo/TB7104F
+  MANIFEST_BRANCH: v3_10.0
+  DEVICE: phoenixin
+  DT_LINK: https://github.com/darkphoenixin/android_device_xiaomi_phoenixin
+  DT_PATH: device/xiamo/phoenixin
   TARGET: recoveryimage
   TZ: Asia/Kolkata
 
